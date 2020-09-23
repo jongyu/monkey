@@ -1,6 +1,6 @@
 # iOS Monkey
 
-## 使用到库
+## 使用的库
 - Kotlin - 简洁好用
 - Appium - 移动端自动化测试
 - Hutool - 工具类
@@ -63,3 +63,8 @@ mobile: pressButton
 ```text
 判断App是否在运行或App是否在当前被测应用
 ```
+
+## 参考项目
+- [zalando/SwiftMonkey](https://github.com/zalando/SwiftMonkey)
+- [baozhida/iosMonkey](https://github.com/baozhida/iosMonkey)
+- [mengdegong/iosMonkey](https://github.com/mengdegong/iosMonkey)
